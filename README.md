@@ -48,7 +48,7 @@ Here’s a sneak peek of the app’s UI:
 
 ---
 
-## 🔧 License
+## 📜 License
 
 This project is licensed under the **MIT License**. You can freely use, modify, and distribute it, but please refer to the [LICENSE](LICENSE) file for the full terms and conditions.
 
