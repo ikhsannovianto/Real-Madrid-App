@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.l0122077.ikhsanari.responsi1.HomeFragment"
+        android:label="Home" />
+    <fragment
+        android:id="@+id/nav_list"
+        android:name="com.l0122077.ikhsanari.responsi1.ListFragment"
+        android:label="Daftar" />
+    <fragment
+        android:id="@+id/nav_profile"
+        android:name="com.l0122077.ikhsanari.responsi1.ProfileFragment"
+        android:label="Profil" />
+</navigation>

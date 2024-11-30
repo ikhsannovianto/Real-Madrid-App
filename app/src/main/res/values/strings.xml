@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Real Madrid Legends</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="app_description">Jejak legenda Madrid bersemi dalam cerita-cerita yang tak terlupakan. Nikmati momen kebesaran klub tercintamu.\n Hala Madrid!</string>
+
+    <string name="profile_text">
+        <![CDATA[
+        L0122077\n
+        Informatika\n
+        2022\n
+        Fatisda\n
+        Universitas Sebelas Maret\n
+        ikhsannovianto@student.uns.ac.id
+        ]]>
+    </string>
+
+    <string name="share_text">
+        Ciao! saya Ikhsan Ari Novianto\nIni profil saya:\nNIM: L0122077\nProgram Studi: Informatika\nAngkatan: 2022\nFakultas: Fatisda\nUniversitas: Universitas Sebelas Maret\nEmail: ikhsannovianto@student.uns.ac.id
+    </string>
+
+    <string name="player_name">Pemain Legenda</string>
+    <string name="description">Deskripsi</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+
+    <string-array name="data_name">
+        <item>Alfredo Di Stéfano</item>
+        <item>Ferenc Puskás</item>
+        <item>Raúl González</item>
+        <item>Fernando Hierro</item>
+        <item>Emilio Butragueno</item>
+        <item>Santillana</item>
+        <item>Zinedine Zidane</item>
+        <item>Cristiano Ronaldo</item>
+        <item>Fernando Redondo</item>
+        <item>Francisco Gento</item>
+    </string-array>
+
+    <string-array name="data_desc">
+        <item><![CDATA[Alfredo Di Stéfano, juga dikenal sebagai La Saeta Rubia, adalah salah satu pemain terbesar sepanjang masa. Bermain untuk Real Madrid dari tahun 1953 hingga 1964, Alfredo Di Stéfano memenangkan lima Piala Champions dan mencetak 308 gol.]]></item>
+        <item><![CDATA[Ferenc Puskás, legenda sepak bola Hungaria, menjadi bagian integral dari era keemasan Real Madrid pada tahun 1950-an. Bersama dengan Alfredo Di Stéfano, Puskás membawa Real Madrid meraih lima Piala Champions.]]></item>
+        <item><![CDATA[Raúl González, juga dikenal sebagai Raúl, merupakan salah satu legenda hidup Real Madrid. Bermain sebagai penyerang utama klub selama 16 musim, Raul memenangkan tiga Liga Champions dan mencetak 323 gol.]]></item>
+        <item><![CDATA[Fernando Hierro adalah bek tangguh yang memimpin lini belakang Real Madrid selama lebih dari satu dekade. Selama karirnya di klub, Fernando Hierro memenangkan lima gelar La Liga dan tiga Piala Champions.]]></item>
+        <item><![CDATA[Emilio Butragueño, juga dikenal sebagai El Buitre, adalah salah satu striker terbaik dalam sejarah Real Madrid. Dengan kecepatan dan insting golnya, Emilio Butragueño membantu klub meraih banyak gelar domestik dan internasional.]]></item>
+        <item><![CDATA[Santillana, yang juga dikenal sebagai Carlos Alonso González, adalah salah satu penyerang legendaris Real Madrid. Selama 17 musim di klub, Santillana mencetak 290 gol dan memenangkan banyak gelar, termasuk enam gelar La Liga.]]></item>
+        <item><![CDATA[Zinedine Zidane, seorang legenda Prancis, menjadi ikon Real Madrid baik sebagai pemain maupun pelatih. Sebagai pemain, Zinedine Zidane membantu klub meraih gelar Liga Champions pada tahun 2002. Sebagai pelatih, Zinedine Zidane memimpin Real Madrid meraih tiga Liga Champions berturut-turut.]]></item>
+        <item><![CDATA[Cristiano Ronaldo, salah satu pemain terhebat dalam sejarah sepak bola, membawa Real Madrid ke puncak kesuksesan selama bertahun-tahun. Selama sembilan musim bersama klub, Cristiano Ronaldo memenangkan empat Liga Champions dan menjadi pencetak gol terbanyak sepanjang masa Real Madrid dengan torehan 451 gol.]]></item>
+        <item><![CDATA[Fernando Redondo, gelandang tangguh asal Argentina, menjadi salah satu motor penggerak Real Madrid di pertengahan 1990-an. Dengan keahlian teknis dan visinya yang brilian, Fernando Redondo memenangkan dua Liga Champions bersama klub.]]></item>
+        <item><![CDATA[Francisco Gento, juga dikenal sebagai Paco Gento, adalah salah satu pemain yang paling banyak menang dalam sejarah sepak bola. Selama 18 musim bersama Real Madrid, Francisco Gento memenangkan enam Liga Champions dan dua Piala Interkontinental.]]></item>
+    </string-array>
+
+    <integer-array name="data_img">
+        <item>@drawable/distefano</item>
+        <item>@drawable/puskas</item>
+        <item>@drawable/raul</item>
+        <item>@drawable/hierro</item>
+        <item>@drawable/butragueno</item>
+        <item>@drawable/santillana</item>
+        <item>@drawable/zidane</item>
+        <item>@drawable/cristiano</item>
+        <item>@drawable/redondo</item>
+        <item>@drawable/gento</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorGold">#FEBE10</color>
+    <color name="colorBlue">#00529F</color>
+    <color name="colorRed">#EE324E</color>
+    <color name="colorPrimary">#00529F</color> <!-- Sesuaikan dengan tema -->
+    <color name="colorPrimaryDark">#003366</color> <!-- Sesuaikan dengan tema -->
+    <color name="colorAccent">#FEBE10</color> <!-- Sesuaikan dengan tema -->
+    <color name="nav_item_color">#FFFFFF</color> <!-- Warna teks normal -->
+    <color name="nav_item_color_selected">#FEBE10</color> <!-- Warna teks terpilih -->
+</resources>

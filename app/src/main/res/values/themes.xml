@@ -1,0 +1,18 @@
+<resources>
+    <!-- Tema aplikasi -->
+    <style name="Theme.Responsi1" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Atur warna, font, dan atribut lainnya sesuai kebutuhan -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <!-- Atur style BottomNavigationView jika perlu -->
+        <item name="bottomNavigationStyle">@style/BottomNavTheme</item>
+    </style>
+
+    <!-- Style untuk BottomNavigationView -->
+    <style name="BottomNavTheme" parent="Widget.MaterialComponents.BottomNavigationView.Colored">
+        <item name="itemIconTint">@color/nav_item_selector</item>
+        <item name="itemTextColor">@color/nav_item_selector</item>
+        <item name="backgroundColor">@color/colorPrimary</item>
+    </style>
+</resources>
