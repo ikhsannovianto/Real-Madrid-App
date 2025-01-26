@@ -1,6 +1,6 @@
-# Real Madrid App
+# Real Madrid Legends App
 
-**Real Madrid App** is an Android application developed using **Android Studio** and **Kotlin**. The app offers an immersive experience for football fans by showcasing legendary players from **Real Madrid** through a user-friendly interface with multiple fragments.
+**Real Madrid Legens App** is an Android application developed using **Android Studio** and **Kotlin**. The app offers an immersive experience for football fans by showcasing legendary players from **Real Madrid** through a user-friendly interface with multiple fragments.
 
 The app features three main sections:
 - **Home**: A welcoming screen for users.
