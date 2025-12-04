@@ -36,12 +36,6 @@ Here’s a preview of the app’s user interface:
 
 ---
 
-## License
-
-This project is licensed under the **MIT License**. You can freely use, modify, and distribute it, but please refer to the [LICENSE](LICENSE) file for the full terms and conditions.
-
----
-
 ### Contact
 
 Feel free to reach out if you have any questions or suggestions:
